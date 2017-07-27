@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "Tell me a hearts fact.",
+        "Tell me about hearts football team.",
+        "Tell me a fact about hearts f c.",
+        "Give me a fact about hearts f c.",
+        "tell me something about hearts f c.",
+        "Tell me an interesting fact about hearts f c.",
+        "Tell me about heart of midlothian football club.",
+        "Give me facts about heart of midlothian f c.",
+        "Give me facts about heart of midlothian football club.",
+        "What can you tell me about hearts f c.",
+        "What can you tell me about hearts football team.",
+        "What can you tell me about hearts football club."
+      ],
+      "slots": []
+    }
+  ]
+}
